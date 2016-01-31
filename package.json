@@ -1,0 +1,20 @@
+{
+  "name": "MusicBot",
+  "version": "1.0.0-indev",
+  "description": "Discord Music Bot.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lexteam/MusicBot"
+  },
+  "keywords": [
+    "music",
+    "bot",
+    "discord"
+  ],
+  "author": "Lexteam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lexteam/MusicBot/issues"
+  },
+  "homepage": "https://github.com/Lexteam/MusicBot"
+}
