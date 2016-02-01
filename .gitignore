@@ -156,3 +156,4 @@ node_modules
 
 ### MusicBot ###
 config.json
+audio_cache/
